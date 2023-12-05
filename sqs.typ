@@ -117,5 +117,5 @@ Yule pushed the coordinates for the $sigma$ route and activated sublight. A few
 minutes later she passed the orbit of the moon and said "Activate SDT,
 authorization Yule-Kappa-Delta-673". She felt the reaction of the shuttle as the
 space was constricted, mangled and distorted and the shuttle slipped on the
-first wormhole. The exterior was familiar, the fish eye lens like aspect of the
-system.
+first wormhole. The exterior was familiar, everything was as seen through a fish
+eye lens.
