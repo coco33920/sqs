@@ -38,7 +38,7 @@ _Last updated: December 5th, 2023_\
 #set heading(numbering: "I.")
 
 #set par(justify: true)
-= Oneshot
+= Part 1
 
 *ring ring ring*\
 Yul awoke at the sound of her old school vintage alarm clock, today was the day,
@@ -57,7 +57,7 @@ Anyway, she had a transport to catch, she listed her checklist for the last time
 in their head. Her clothes? Check. Her cute clothes she never worned? Check.
 Diploma? Check. Health supply? Check. Everything is okay and she's ready to take
 her station at the *cough* the _Deep Space Station for Scientific and
-Engineering research n°1_ it's really a mouthfull.
+Engineering research Alpha-Kappa-Two_ it's really a mouthfull.
 
 One suitcase, that's all, all her memories, stories, personnal belongings,
 clothes, for a _lifetime_ was in _one_ suitcase. She would like to say goodbye
@@ -67,3 +67,55 @@ Earth and no one would miss her there. She hoped the station was better...
 
 #middle
 
+She had her own shuttle, a gift from the government for young graduates who
+don't have families anymore. She had the pleasure of naming it and she chose the
+_USS Ada Lovelace_ after an old earth woman who was considered to be the first
+programmer more than three hundred years ago. It was a class-5 private shuttle
+but attached to the Federation Fleet, and thus have an official number, _USS Ada
+Lovelace, FSN-$657 kappa$_. It was capable of achieving speed up to 50 light
+years an hour at cruising speed, the transit will be a bit over 8 days.
+
+Vessels of the Federation uses a kind of FTL travel called "Space Distorsion
+Transportation" she was not an engineering but she roughly remembered it
+warped space in front of the vessel and generates a pathway out of micro-worm
+hole to slip through space thousands the time of speed of light without being
+subject to relativistic effects.
+
+Being alone in the shuttle meant all role but piloting was up to her, the
+computer will pilot, she was a good but fairly inatentive pilot, thansk to ADHD.
+she began the pre-launch sequence start and contacted Paris air control, who was
+the station for this side of earth. She was in vacation in a family home a few
+dozens kilometers south of Bordeaux.
+
+- Lieutenant Klid to Paris Air Control, this is the Lovelace FSN-$657 kappa$ my flight path was uploaded to your server this morning requesting permission to lift off in a path to low earth orbit
+
+- Paris Air Control, request granted, flight vector uploaded to your flight computer, please keep following it until you achieve low earth orbit and then switch to the Earth Space Control frequency.
+
+- Lovelace here, copy that, thanks.
+
+Yule then pressed the button to launch the vessel, she felt the launch thrusters
+gently lift the vessel off the floor and gently follow the flight vector to low
+earth orbit. The flight shield automatically raised and the vessel weapons
+activated on standby. The flight plan had portion outside Federation space. So
+the computer activated automatically the low alert.
+
+#middle
+
+The flight was pleasing until achieving low earth orbit, it was a bit over an
+hour, and she could see Earth becoming smaller and smaller, she always marveled
+at the view, nothing could be so magical. When low earth orbit was achieved a
+_bip_ could be heard inside the cockpit.
+
+- USS Ada Lovelace FSN-$657 kappa$ to Earth Space Traffic, in low earth orbit 500 km above Earth, request permission to switch to sublight, leave the planetary system and activate SDT drive. 
+
+- Earth Space Traffic, you can leave the system on the $sigma$ route and
+activate SDT drive once you've cleared the orbit of the moon, EST out.
+
+- Copy that, see you on the other side.
+
+Yule pushed the coordinates for the $sigma$ route and activated sublight. A few
+minutes later she passed the orbit of the moon and said "Activate SDT,
+authorization Yule-Kappa-Delta-673". She felt the reaction of the shuttle as the
+space was constricted, mangled and distorted and the shuttle slipped on the
+first wormhole. The exterior was familiar, the fish eye lens like aspect of the
+system.
