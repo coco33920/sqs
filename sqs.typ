@@ -119,3 +119,45 @@ authorization Yule-Kappa-Delta-673". She felt the reaction of the shuttle as the
 space was constricted, mangled and distorted and the shuttle slipped on the
 first wormhole. The exterior was familiar, everything was as seen through a fish
 eye lens.
+
+= Part 2
+
+The _Ada Lovelace_ dropped out of FTL in the Layoidora system, where the _Deep
+Space Station for Scientific and Engineering research Alpha-Kappa-Two_ is
+located, at the edge of Federation Space, doing front of the line new research
+about science. Yule was really excited to be there, after 8 days of boring
+travel she was on the verge of arriving at her new assignment, Junior Researcher
+in Astrophotometry.
+
+- This is Lieutenant Klid, Aboard the _USS Ada Lovelace FSN-$657 kappa$_, a new arrival in the Astrophotometry laboratory hailing the _Deep Station Alpha-Kappa-Two_ to request docking clearance.
+
+- Lieutenant! You can dock your shuttle in the staff bay. Activating tractor beam.
+
+- Copy that.
+
+#middle
+
+A few minutes later after she docked her precious shuttle in the staff bay she
+was in the main lobby of the station. It was _not_ like she thought it would be,
+she was awaiting a white futuristic immaculate station and not this homey
+station. The main room was maybe a hundred metre wide circle with some cafés,
+sofas, chairs, observations decks, all with colours, and marked with utilisation
+over time, mood lighting over some reading areas with plants were here and
+there, and finally, _Flags_, just _Flags_.
+
+There were flags, _everywhere_, she spotted the trans flag at least thrice, the
+non binary flag, the intersex flag, the pansexual flag, polyamourous flag, etc.
+A lot of flags, this station was.... Open-minded.
+
+Yule did not hear someone walking up to her.
+
+- Hey lieutenant! 
+
+Yule was surprised and quickly threw a salute to the officer which seems to be
+the captain of the station
+
+- No need this much formality lieutenant, I'm Captain Flaik but you can call me
+Aria, of the station, on behalf of the crew welcome to _SQS_. The _Space Queer Station_. As you've seen we're very... queer here and you're welcome to explore your gender and sexuality here, we have doctors on board and people to talk about. Your section is special, you will see!
+
+- Okay, captain, Aria, it's not what I imagined but this is *fantastic* I think I'll be able to transition here, she finished mumbling in her own voice.
+
