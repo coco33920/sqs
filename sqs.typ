@@ -161,3 +161,52 @@ Aria, of the station, on behalf of the crew welcome to _SQS_. The _Space Queer S
 
 - Okay, captain, Aria, it's not what I imagined but this is *fantastic* I think I'll be able to transition here, she finished mumbling in her own voice.
 
+#middle
+
+The next morning after installing herself in her cabin she walked up to a café
+to take a flat latte, without caffeine. And sat to wonder while looking at the
+stars.
+
+A person sat next to her.
+
+- Hey hum, lieutenant, I'm Commander Klsn, I'm the senior officer in the astrophotometry department, I wanted to talk to you before you see the rest of the department because of.... things I've seen and I know the girls will be less cautious about that. Hum, it's fairly obvious with your presenting and clothes but... you're not really a guy are you?
+
+- No I'm not, I never told someone else though. But well _this_ station seems as accepting as anyone could be...
+
+The commander giggled at that 
+
+- It is indeed, what about we see this doctor for this transition of yours you got a name hun?
+
+- Yule
+
+- Yule! It's cute, annnnd it's uploaded on the station and federation database, your name will be officially changed in about a day!
+
+- Whaaa? Already? I heard it was hard to have a meeting to change your name?
+
+- I have some ties don't worry, the commander winked.
+
+#middle
+
+The med bay was, contrary to the remaining of the station, very how she imagined
+it to be, white, futuristic, and very immaculate.
+
+- Hey doc! We have another one for your wonderful paws to work with!, the commander yelled 
+
+An ederly cat-kin woman in a doctor's coat approached the two of them.
+
+- Oh, I see, hun, how do you want to look like?
+
+A long discussion during a few hours between the doctor and Yule ensued, and a
+few hours later while sleeping she woke up as herself for the first time.
+
+The first thing she saw was her height. She knew she would be much smaller, she
+_asked_ for it, but _being_ smaller was marvelous! She was small! And huggable!
+
+Then she heard her voice! Cute! 
+
+She regaigned her quarters, and a long night of discovering herself was
+_definetely_ on the menue.
+
+#set align(center)
+*The End*
+#set align(left)
