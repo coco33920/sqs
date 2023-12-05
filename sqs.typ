@@ -1,7 +1,6 @@
 #set page(footer:[#link("https://agh.nwa2coco.fr","Space Queer Station") © 2023 by
 #link("https://me.nwa2coco.fr","Charlotte Thomas") is licensed under
-#link("https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1","CC
-BY-NC-SA 4.0")],numbering: "1/1",number-align: right + top)
+#link("https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1","CC BY-NC-SA 4.0")],numbering: "1/1",number-align: right + top)
 
 #v(1fr)
 #set text(size:24pt)
