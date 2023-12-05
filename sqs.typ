@@ -54,12 +54,12 @@ on a space station more than ten thousands light years from home and will not be
 able to transition...
 
 Anyway, she had a transport to catch, she listed her checklist for the last time
-in their head. Her clothes? Check. Her cute clothes she never worned? Check.
+in their head. Her clothes? Check. Her cute clothes she never worn? Check.
 Diploma? Check. Health supply? Check. Everything is okay and she's ready to take
 her station at the *cough* the _Deep Space Station for Scientific and
-Engineering research Alpha-Kappa-Two_ it's really a mouthfull.
+Engineering research Alpha-Kappa-Two_ it's really a mouthful.
 
-One suitcase, that's all, all her memories, stories, personnal belongings,
+One suitcase, that's all, all her memories, stories, personal belongings,
 clothes, for a _lifetime_ was in _one_ suitcase. She would like to say goodbye
 to someone but... no one was left on earth. She had no friends from the Academy,
 her parents died more than a decade ago, no familly, no one. She could leave
@@ -75,14 +75,14 @@ but attached to the Federation Fleet, and thus have an official number, _USS Ada
 Lovelace, FSN-$657 kappa$_. It was capable of achieving speed up to 50 light
 years an hour at cruising speed, the transit will be a bit over 8 days.
 
-Vessels of the Federation uses a kind of FTL travel called "Space Distorsion
+Vessels of the Federation uses a kind of FTL travel called "Space Distortion
 Transportation" she was not an engineering but she roughly remembered it
 warped space in front of the vessel and generates a pathway out of micro-worm
 hole to slip through space thousands the time of speed of light without being
 subject to relativistic effects.
 
 Being alone in the shuttle meant all role but piloting was up to her, the
-computer will pilot, she was a good but fairly inatentive pilot, thansk to ADHD.
+computer will pilot, she was a good but fairly inattentive pilot, thanks to ADHD.
 she began the pre-launch sequence start and contacted Paris air control, who was
 the station for this side of earth. She was in vacation in a family home a few
 dozens kilometers south of Bordeaux.
@@ -204,7 +204,7 @@ _asked_ for it, but _being_ smaller was marvelous! She was small! And huggable!
 
 Then she heard her voice! Cute! 
 
-She regaigned her quarters, and a long night of discovering herself was
+She regained her quarters, and a long night of discovering herself was
 _definetely_ on the menue.
 
 #set align(center)
