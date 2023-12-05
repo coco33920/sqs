@@ -1,5 +1,5 @@
 compile:
-	typst c stw.typ
+	typst c sqs.typ
 watch: compile
-	evince stw.pdf &
-	typst w stw.typ
+	evince sqs.pdf &
+	typst w sqs.typ
